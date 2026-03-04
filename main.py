@@ -1,3 +1,3 @@
 print("Inicio del proyecto")
-print("Hola mundo")
-    
+nombre = int("Ingrese su nombre: ")
+print(f"Bienvenid@ {nombre}")
